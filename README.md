@@ -1,8 +1,6 @@
 <h1 align="center">
              DataViz 📊
 </h1>
-=
-(https://user-images.githubusercontent.com/109028175/209325429-8173c570-6b0d-4a6e-8e6c-8caffd5cd9e6.jpg)
 
 ![image](https://user-images.githubusercontent.com/78029145/163700890-196af6cc-2824-421f-9be3-0c3556d403ae.png)
 
